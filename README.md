@@ -7,3 +7,4 @@ main: fourth line
 
 feature: first line
 feature: second line
+feature: third line
